@@ -37,7 +37,7 @@ My goal is to become an AI Engineer and explore Artificial Intelligence, Machine
 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodaelhagrasy&show_icons=true&theme=tokyonight&hide_border=true" alt="Boda's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?"username=bodaelhagrasy&show_icons=true&theme=tokyonight&hide_border=true" alt="Boda's GitHub statistics" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodaelhagrasy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>📈 GitHub Contribution Activity
