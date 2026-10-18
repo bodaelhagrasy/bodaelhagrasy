@@ -131,7 +131,7 @@ while True :
         # دي لو انا عايز من الاكبر للاصغر
         # من غير متغير علي طول 
         # print(f"Sorted salaries :{sorted(salaries, reverse=True)}")
-# 
+# حساب عدد الموظفين في قسم معين
     elif choice == 8 :
         print(f"departments :{departments}")
         depar = input("Enter department name :").strip()
@@ -147,7 +147,7 @@ while True :
             # print(f"{depar} appears {count_depart}")
         else :
             print("Not found !")
-
+# خروج
     elif choice == 9 :
         print("good bay")
         break
